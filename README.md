@@ -1,4 +1,4 @@
-# Diary "Eco"
+# Diary "Echo"
 (O nome vem da ideia de emoções que reverberam sem uma origem clara e um lugar onde você pode ouvir sua própria voz e mente.)
 
 Projeto de Acompanhamento de Transtornos Psiquiatricos.
