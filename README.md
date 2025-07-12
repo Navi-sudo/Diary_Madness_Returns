@@ -41,8 +41,7 @@ Função emergencial para contatar automaticamente:
 Status: Em planejamento/desenvolvimento inicial
 
 Linguagem:
-- FrontEnd: HTML e BootsTrap
-- Backend: Python e Django
+- Linguagem: Dart e Flutter
 - Banco de dados: SQLite
 
 Objetivo: Criar uma ferramenta pessoal de autogestão emocional
@@ -54,3 +53,14 @@ Como pessoa diagnosticada com TPB, entendo a necessidade de se expressar e alivi
 - Maio é o mês de conscientização sobre o TPB. Para saber mais sobre o transtorno, visite:
 www.borderlinepersonalitydisorder.org
 
+
+-----------------
+
+NOTAS DA N4VI:
+
+Esse projeto é muito especial para mim, e mesmo ele saindo do escopo de todos os meus conhecimentos de programação, estou super ansiosa pra tentar.
+Eu tinha tido a ideia de fazer e ficou meio parada.. Mas uma crise recente me fez perceber que ele teria ajudado tanto no momento que me deu motivação de ressuscitar a ideia.
+Queria poder fazer direto e focar somente nele, mas sai total dos meus estudos normais que são de cibersegurança (python/bash/redes) da faculdade e vão seguir pra mobile (dart/flutter) então mesmo animada, tenho que me dividir entre essas duas coisas =(
+Seria muito legal se um dia esse diário chegasse ao ponto de conseguir ajudar essa minha cabeça maluca cheia de ecos... Se isso acontecer, quero que outras cabeças malucas cheias de ecos encontrem conforto nesse projeto também ♡
+
+Por ultimo, queria agradecer ao pesquisador Gabriel Souto Ferrante (AKA Ursinho) pelas aulas, apoio e principalmente nunca me deixar desistir e nem falo do diário em si mas da vida. Obrigada por aguentar essa cabeça maluca cheia de ecos comigo. Amo você.
